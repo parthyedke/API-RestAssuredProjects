@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5542" started-at="2019-08-31T21:10:28 IST" finished-at="2019-08-31T21:10:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5542" started-at="2019-08-31T21:10:28 IST" finished-at="2019-08-31T21:10:34 IST">
+      <class name="apiProjects.TC005_POSTbyTDD">
+        <test-method status="PASS" signature="POSTbyTDD(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:apiProjects.TC005_POSTbyTDD@1f36e637]" name="POSTbyTDD" duration-ms="3949" started-at="2019-08-31T21:10:28 IST" data-provider="ApiData" finished-at="2019-08-31T21:10:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sai111]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[620000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[27]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POSTbyTDD -->
+        <test-method status="PASS" signature="POSTbyTDD(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:apiProjects.TC005_POSTbyTDD@1f36e637]" name="POSTbyTDD" duration-ms="772" started-at="2019-08-31T21:10:32 IST" data-provider="ApiData" finished-at="2019-08-31T21:10:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sai1111]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[720000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POSTbyTDD -->
+        <test-method status="PASS" signature="POSTbyTDD(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:apiProjects.TC005_POSTbyTDD@1f36e637]" name="POSTbyTDD" duration-ms="736" started-at="2019-08-31T21:10:33 IST" data-provider="ApiData" finished-at="2019-08-31T21:10:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sai2222]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[830000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[29]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POSTbyTDD -->
+      </class> <!-- apiProjects.TC005_POSTbyTDD -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
